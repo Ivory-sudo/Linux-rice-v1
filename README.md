@@ -2,7 +2,10 @@
 
 My dotfiles, wallpapers, and custom cursor.
 
-![screenshot](screenshot.png)
+## Screenshots
+
+![desktop](images/desktop.png)
+![terminals](images/terminals.png)
 
 ## Details
 - **Distro:** CachyOS 
