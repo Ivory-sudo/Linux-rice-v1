@@ -19,6 +19,8 @@ My dotfiles, wallpapers, system details and custom cursor.
 - `Cursor/Hariyama/`: custom animated cursor (made by me)
 - `Wallpapers/`: collected wallpapers
 
+**Check out .config README.md for setup help and dependency details**
+
 ## Install the cursor
     cp -r Cursor/Hariyama ~/.local/share/icons/
     
