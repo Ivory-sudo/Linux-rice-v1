@@ -1,6 +1,6 @@
 # Linux Rice v1
 
-My dotfiles, wallpapers, and custom cursor.
+My dotfiles, wallpapers, system details and custom cursor.
 
 ## Screenshots
 
@@ -11,7 +11,8 @@ My dotfiles, wallpapers, and custom cursor.
 - **Distro:** CachyOS 
 - **WM/DE:** Hyprland
 - **Terminal:** Kitty 
-- **Shell:** zsh + Powerlevel10k 
+- **Shell:** zsh + Powerlevel10k
+- **Font:** Jet Brains Mono
 
 ## Contents
 - `.config/`: application configs
@@ -20,6 +21,10 @@ My dotfiles, wallpapers, and custom cursor.
 
 ## Install the cursor
     cp -r Cursor/Hariyama ~/.local/share/icons/
+    
+**If that doesn't work**
+
+    cp -r Cursor/Hariyama ~/.icons/
 
 ## Licensing & credits
 Configs and the Hariyama cursor are released under the MIT License.
